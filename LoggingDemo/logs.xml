@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-05-15T16:56:53</date>
+  <millis>1400153213952</millis>
+  <sequence>0</sequence>
+  <logger>com.psl.TestLogger</logger>
+  <level>INFO</level>
+  <class>com.psl.TestLogger</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> Exception occured / by zero</message>
+</record>
+</log>
